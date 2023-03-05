@@ -2,7 +2,7 @@
 
  Hola, me llamo **Jonatan Garcia Altamirano**. Tengo 32 años y soy de Salina Cruz, México🌮. Soy egresado del Instituto Tecnologico de Salina Cruz en la Carrera de Ingenieria Electrónica🎓. 
  
- ✍Estoy interesado en el desarrollo web y sus tecnologias, actualmente me encuentro esudiando en *FreeCodecamp* y *Undefined Academy*.
+ Estoy interesado en el desarrollo web y sus tecnologias, actualmente me encuentro esudiando en *FreeCodecamp* y *Undefined Academy* ✍.
 
 ## 💻Cinco comandos de linea (CLI)
 
